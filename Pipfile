@@ -16,10 +16,11 @@ pylint = "*"
 uvicorn = "*"
 chardet = "*"
 rfc3986 = "*"
-openai = "*"
 httpx = "*"
 httpcore = "==1.0.6"
 python-dotenv = "*"
+openai = "*"
+duckduckgo-search = "*"
 
 [dev-packages]
 

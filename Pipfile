@@ -22,6 +22,11 @@ python-dotenv = "*"
 openai = "*"
 duckduckgo-search = "*"
 yfinance = "*"
+lancedb = "*"
+tantivy = "*"
+pypdf = "*"
+sqlalchemy = "*"
+python-docx = "*"
 
 [dev-packages]
 
